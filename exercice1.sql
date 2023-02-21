@@ -14,6 +14,7 @@ CREATE TABLE actors(
     number_oscars SMALLINT NOT NULL
 )
 
+
 /* Insert the following data into the actors table:
     - Leonardo, DiCaprio, 11/11/1974, 1
     - Brad, Pitt, 12/12/1963, 2
